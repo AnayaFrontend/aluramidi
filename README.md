@@ -12,5 +12,5 @@ O projeto Aluramidi é uma aplicação web que permite ao usuário interagir com
 - CSS3
 - JavaScript
 
-Link do deploy: `https://anayafrontend.github.io/aluramidi/`
+Link do deploy: [https://anayafrontend.github.io/aluramidi/]
 
